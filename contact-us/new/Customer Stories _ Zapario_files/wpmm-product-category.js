@@ -1,0 +1,2 @@
+jQuery(document).ready(function($){'use strict';$(document).on('click','.wpmm_category_pro_image_btn',function(e){e.preventDefault();var frame;if(frame){frame.open();return;}
+frame=wp.media({title:'Select or upload media of your chosen persuasion',button:{text:'Use this media'},multiple:false});frame.on('select',function(){var attachment=frame.state().get('selection').first().toJSON();$('.category_bg_img_url').val(attachment.url).change();});frame.open();});});

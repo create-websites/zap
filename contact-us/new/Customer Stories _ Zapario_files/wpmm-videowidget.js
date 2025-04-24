@@ -1,0 +1,3 @@
+jQuery(document).ready(function($){'use strict';const players=Array.from(document.querySelectorAll('.wpmm-video-player'));players.map(elem=>{const player=new Plyr(elem);player.volume=0;$('.wp-megamenu-wrap .wpmm-nav-wrap > ul.wp-megamenu > li.wpmm_mega_menu').on('mouseleave',function(){player.pause();});});$(document).on('click','.wpmm_video_upload_btn',function(e){console.log('>>>>>>')
+e.preventDefault();var frame;if(frame){frame.open();return;}
+frame=wp.media({title:'Select or upload media of your chosen persuasion',button:{text:'Use this media'},multiple:false});frame.on('select',function(){var attachment=frame.state().get('selection').first().toJSON();$('.self_video_url').val(attachment.url).change();});frame.open();});});

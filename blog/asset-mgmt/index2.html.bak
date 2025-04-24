@@ -1,0 +1,608 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+   <head id="ctl00_head1"><meta charset="utf-8" /><title>
+	Predictive Maintenance: Future-Proof Your IoT Assets
+</title><meta content="width=device-width, initial-scale=1.0" name="viewport" /><meta name="keywords" content="1. Predictive maintenance,
+2. Machine learning,
+3. Device failure,
+4. Engine life,
+5. Energy optimization,
+6. Anomaly detection,
+7. Sensor failure,
+8. Supply chain,
+9. Quality control,
+10. Safety monitoring" /><meta name="description" content="The article discusses the application of predictive maintenance using machine learning to forecast device failures, estimate engine life, optimize energy consumption, detect anomalies, and estimate sensor values. It also highlights additional scenarios such as supply chain optimization, quality control, safety monitoring, and cost management, emphasizing the benefits of timely maintenance and efficient resource allocation." /> <link href="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/img/favicon.ico" rel="icon" /><link rel="preconnect" href="https://fonts.googleapis.com" /><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="" /><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&amp;family=Roboto:wght@500;700&amp;display=swap" rel="stylesheet" /><link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet" /><link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet" /><link href="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/lib/animate/animate.min.css" rel="stylesheet" /><link href="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet" /><link href="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/css/bootstrap.min.css" rel="stylesheet" /><link href="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/css/style.css" rel="stylesheet" /></head>
+
+<body>
+    <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
+        <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
+
+
+<sections>
+
+    
+<nav class="navbar navbar-expand-lg bg-white navbar-light shadow border-top border-5 border-primary sticky-top p-0">
+    <h2 class="mb-2 text-white"><a id="ctl00_topheader" class="navbar-brand bg-primary d-flex align-items-center px-4 px-lg-5" href="https://www.zapario.com">Zapario</a></h2>
+   
+    <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+        <div class="navbar-nav ms-auto p-4 p-lg-0">
+            
+            <!-- <a id="ctl00_hyperlinkHome" href="https://www.zapario.com">Home</a> -->
+            <!--
+
+    
+
+
+
+												
+						
+			
+            
+           <a id="ctl00_articlesdir_RepLinks_ctl01_Hyperlink1" class="nav-item nav-link" href="https://www.zapario.com">Home</a>
+          
+
+
+
+
+
+
+             
+ 
+ 
+ 
+ -->
+            
+
+    
+
+
+
+												
+						
+			<a id="ctl00_articlesdhome_RepLinks_ctl01_title" class="nav-item nav-link" href="https://www.zapario.com"><em><b>Home</b></em></a>
+            
+           
+          
+
+
+
+
+
+
+             
+ 
+ 
+ 
+
+      
+        </div>
+    </div>
+</nav>
+
+<sections>
+    
+
+<div class="container-xxl py-5">
+    <div class="container py-5">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                
+                <h1 class="mb-5"><span id="ctl00_ContentPlaceHolderArticle_title">Predictive Maintenance: Future-Proof Your IoT Assets</span></h1>
+                <p class="mb-5"><span id="ctl00_ContentPlaceHolderArticle_metadesc">The article discusses the application of predictive maintenance using machine learning to forecast device failures, estimate engine life, optimize energy consumption, detect anomalies, and estimate sensor values. It also highlights additional scenarios such as supply chain optimization, quality control, safety monitoring, and cost management, emphasizing the benefits of timely maintenance and efficient resource allocation.</span></p>
+            </div>
+        </div>
+  
+          <div class="row g-5 align-items-center">
+                              
+<table id="ctl00_ContentPlaceHolderArticle_RepDetails" cellspacing="0" border="0">
+	<tr>
+		<td colspan="3">
+    </td>
+	</tr><tr>
+		<td>
+
+
+            <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl01_imghyperlink" href="Slide1.html"><img id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl01_Image1" alt="SLIDE1" NavigateUrl="Slide1.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide1.png" border="0" /></a>
+            
+    
+        <blockquote>  <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl01_hyperlink1" href="Slide1.html">SLIDE1</a></blockquote>
+
+    </td><td>
+
+
+            <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl02_imghyperlink" href="Slide2.html"><img id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl02_Image1" alt="SLIDE2" NavigateUrl="Slide2.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide2.png" border="0" /></a>
+            
+    
+        <blockquote>  <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl02_hyperlink1" href="Slide2.html">SLIDE2</a></blockquote>
+
+    </td><td>
+
+
+            <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl03_imghyperlink" href="Slide3.html"><img id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl03_Image1" alt="SLIDE3" NavigateUrl="Slide3.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide3.png" border="0" /></a>
+            
+    
+        <blockquote>  <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl03_hyperlink1" href="Slide3.html">SLIDE3</a></blockquote>
+
+    </td>
+	</tr><tr>
+		<td>
+
+
+            <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl04_imghyperlink" href="Slide4.html"><img id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl04_Image1" alt="SLIDE4" NavigateUrl="Slide4.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide4.png" border="0" /></a>
+            
+    
+        <blockquote>  <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl04_hyperlink1" href="Slide4.html">SLIDE4</a></blockquote>
+
+    </td><td>
+
+
+            <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl05_imghyperlink" href="Slide5.html"><img id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl05_Image1" alt="SLIDE5" NavigateUrl="Slide5.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide5.png" border="0" /></a>
+            
+    
+        <blockquote>  <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl05_hyperlink1" href="Slide5.html">SLIDE5</a></blockquote>
+
+    </td><td>
+
+
+            <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl06_imghyperlink" href="Slide6.html"><img id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl06_Image1" alt="SLIDE6" NavigateUrl="Slide6.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide6.png" border="0" /></a>
+            
+    
+        <blockquote>  <a id="ctl00_ContentPlaceHolderArticle_RepDetails_ctl06_hyperlink1" href="Slide6.html">SLIDE6</a></blockquote>
+
+    </td>
+	</tr><tr>
+		<td colspan="3">
+ </td>
+	</tr>
+</table>
+   
+</div>
+</div>
+
+</div>     
+
+
+  <div class="container-xxl py-5">
+    <div class="container py-5">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+                <h1 class="mb-5"><span id="ctl00_ContentPlaceHolderArticle_Label1"></span></h1>
+                <p class="mb-5"><span id="ctl00_ContentPlaceHolderArticle_labeltext"><font color="Black" size="4"></font></span></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+     <div class="container-xxl py-5">
+ <div class="container py-5">
+     <div class="row g-5 align-items-center">
+         <div class="col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
+	
+		<table id="ctl00_ContentPlaceHolderArticle_RepComments" cellspacing="0" border="0">
+	<tr>
+		<td>
+               
+
+		</td>
+	</tr><tr>
+		<td>
+		
+
+
+                                                                  
+                                                                                     <p class="mb-5"><span id="ctl00_ContentPlaceHolderArticle_RepComments_ctl01_label2"><font color="Black" size="4"><table border="1" cellpadding="10" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Scenario</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Will this device fail?</td>
+            <td>
+                <div>
+                    Predictive maintenance using machine learning can forecast the likelihood of a device failing. By analyzing historical data and real-time sensor inputs, machine learning models can predict potential failures before they occur. This allows for timely maintenance, reducing downtime and preventing costly repairs.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>What is the remaining life of the engine?</td>
+            <td>
+                <div>
+                    Machine learning algorithms can estimate the remaining useful life (RUL) of an engine by examining patterns in operational data. This helps in planning maintenance schedules and optimizing the lifecycle of the engine, ensuring it operates efficiently until the end of its service life.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>How to optimize energy?</td>
+            <td>
+                <div>
+                    Predictive maintenance can also be used to optimize energy consumption. By analyzing data from various sensors, machine learning models can identify inefficiencies and suggest adjustments to improve energy usage. This not only reduces operational costs but also contributes to sustainability efforts.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>Are there anomalies in output created or voltage pattern?</td>
+            <td>
+                <div>
+                    Machine learning can detect anomalies in output or voltage patterns by continuously monitoring sensor data. Anomalies may indicate underlying issues that need attention. Early detection allows for prompt corrective actions, ensuring the system remains stable and reliable.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>How to estimate sensor value whether sensor fails?</td>
+            <td>
+                <div>
+                    Predictive maintenance can estimate sensor values and detect sensor failures by comparing real-time data with expected patterns. Machine learning models can identify discrepancies that suggest a sensor is malfunctioning, allowing for quick replacement or recalibration to maintain accurate monitoring.
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td>Other Scenarios</td>
+            <td>
+                <div>
+                    <ul>
+                        <li><strong>Supply Chain Optimization:</strong> Predictive maintenance can forecast equipment needs and spare parts, ensuring that the supply chain is prepared for maintenance activities.</li>
+                        <li><strong>Quality Control:</strong> By monitoring production processes, machine learning can predict defects and ensure that products meet quality standards.</li>
+                        <li><strong>Safety Monitoring:</strong> Predictive maintenance can identify potential safety hazards by analyzing data from safety sensors, ensuring a safe working environment.</li>
+                        <li><strong>Cost Management:</strong> By predicting maintenance needs, organizations can better manage their budgets and allocate resources more efficiently.</li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table></font></span></p>
+                                                                            
+		</td>
+	</tr><tr>
+		<td>
+                   
+                                
+ 
+
+                </td>
+	</tr>
+</table>
+
+                              </div>
+                           </div>
+                   </div>
+               </div>
+
+    <!-- 
+
+<div class="container py-5">
+    <div class="text-center">
+        <h1 class="mb-0">Our Gallery</h1>
+    </div>
+    
+     
+
+
+        <table id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails" cellspacing="0" border="0">
+	<tr>
+		<td>
+            
+        </td>
+	</tr><tr>
+		<td>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+            <div class="testimonial-item p-4 my-5">
+                <div class="d-flex align-items-end mb-4">
+                   
+                    
+                    <a id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl01_imghyperlink" href="Slide1.html"><img id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl01_Image1" class="img-fluid flex-shrink-0" alt="SLIDE1" NavigateUrl="Slide1.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide1.png" border="0" style="width: 100%" /></a>
+                </div>
+            </div>
+        </div>
+        </td>
+	</tr><tr>
+		<td>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+            <div class="testimonial-item p-4 my-5">
+                <div class="d-flex align-items-end mb-4">
+                   
+                    
+                    <a id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl02_imghyperlink" href="Slide2.html"><img id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl02_Image1" class="img-fluid flex-shrink-0" alt="SLIDE2" NavigateUrl="Slide2.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide2.png" border="0" style="width: 100%" /></a>
+                </div>
+            </div>
+        </div>
+        </td>
+	</tr><tr>
+		<td>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+            <div class="testimonial-item p-4 my-5">
+                <div class="d-flex align-items-end mb-4">
+                   
+                    
+                    <a id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl03_imghyperlink" href="Slide3.html"><img id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl03_Image1" class="img-fluid flex-shrink-0" alt="SLIDE3" NavigateUrl="Slide3.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide3.png" border="0" style="width: 100%" /></a>
+                </div>
+            </div>
+        </div>
+        </td>
+	</tr><tr>
+		<td>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+            <div class="testimonial-item p-4 my-5">
+                <div class="d-flex align-items-end mb-4">
+                   
+                    
+                    <a id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl04_imghyperlink" href="Slide4.html"><img id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl04_Image1" class="img-fluid flex-shrink-0" alt="SLIDE4" NavigateUrl="Slide4.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide4.png" border="0" style="width: 100%" /></a>
+                </div>
+            </div>
+        </div>
+        </td>
+	</tr><tr>
+		<td>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+            <div class="testimonial-item p-4 my-5">
+                <div class="d-flex align-items-end mb-4">
+                   
+                    
+                    <a id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl05_imghyperlink" href="Slide5.html"><img id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl05_Image1" class="img-fluid flex-shrink-0" alt="SLIDE5" NavigateUrl="Slide5.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide5.png" border="0" style="width: 100%" /></a>
+                </div>
+            </div>
+        </div>
+        </td>
+	</tr><tr>
+		<td>
+            <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+            <div class="testimonial-item p-4 my-5">
+                <div class="d-flex align-items-end mb-4">
+                   
+                    
+                    <a id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl06_imghyperlink" href="Slide6.html"><img id="ctl00_ContentPlaceHolderArticle_pictures_RepDetails_ctl06_Image1" class="img-fluid flex-shrink-0" alt="SLIDE6" NavigateUrl="Slide6.html" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide500/Slide6.png" border="0" style="width: 100%" /></a>
+                </div>
+            </div>
+        </div>
+        </td>
+	</tr><tr>
+		<td>
+            
+           </td>
+	</tr>
+</table>
+
+
+
+   
+</div>
+
+
+
+
+			
+								
+								
+							 -->
+    
+
+<div class="container py-5">
+    <div class="text-center">
+        <h1 class="mb-0">Our Gallery</h1>
+    </div>
+    <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
+        <div class="testimonial-item p-4 my-5">
+            <div class="d-flex align-items-end mb-4">
+                <a href="https://www.zapario.com/blog/asset-mgmt/Slide1.html">
+                <img class="img-fluid flex-shrink-0" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide300/Slide1.png" style="width: 100%">
+                    </a>
+            </div>
+        </div>
+        <div class="testimonial-item p-4 my-5">
+            <div class="d-flex align-items-end mb-4">
+                <a href="https://www.zapario.com/blog/asset-mgmt/Slide2.html">
+                <img class="img-fluid flex-shrink-0" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide300/Slide2.png" style="width: 100%">
+                </a>
+            </div>
+        </div>
+        <div class="testimonial-item p-4 my-5">
+            <div class="d-flex align-items-end mb-4">
+                <a href="https://www.zapario.com/blog/asset-mgmt/Slide3.html">
+                <img class="img-fluid flex-shrink-0" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide300/Slide3.png" style="width: 100%">
+                    </a>
+            </div>
+        </div>
+        
+        <div class="testimonial-item p-4 my-5">
+            <div class="d-flex align-items-end mb-4">
+                <a href="https://www.zapario.com/blog/asset-mgmt/Slide4.html">
+                <img class="img-fluid flex-shrink-0" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide300/Slide4.png" style="width: 100%">
+                    </a>
+            </div>
+        </div>  
+
+        <div class="testimonial-item p-4 my-5">
+            <div class="d-flex align-items-end mb-4">
+                <a href="https://www.zapario.com/blog/asset-mgmt/Slide5.html">
+                <img class="img-fluid flex-shrink-0" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide300/Slide5.png" style="width: 100%">
+                    </a>
+            </div>
+        </div>  
+
+         <div class="testimonial-item p-4 my-5">
+            <div class="d-flex align-items-end mb-4">
+                <a href="https://www.zapario.com/blog/asset-mgmt/Slide6.html">
+                <img class="img-fluid flex-shrink-0" src="https://storage.googleapis.com/zapario_gdrive/zapario.com/input/content/slides/pdm/images/Slide300/Slide6.png" style="width: 100%">
+                </a>
+            </div>
+        </div>  
+
+    </div>
+</div>
+
+
+
+
+			
+								
+								
+							
+
+
+    
+</sections>
+
+    
+
+<div class="container-fluid bg-dark text-light footer pt-5 wow fadeIn" data-wow-delay="0.1s" style="margin-top: 6rem;">
+    <div class="container py-5">
+        <div class="row g-5">
+            <div class="col-lg-3 col-md-6">
+                <h4 class="text-light mb-4">Address</h4>
+                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>USA</p>
+                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>Phone</p>
+                <p class="mb-2"><i class="fa fa-envelope me-3"></i>Email Address</p>
+                <div class="d-flex pt-2">
+                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
+                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
+                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
+                    <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h4 class="text-light mb-4"><a id="ctl00_footer_footerhead" title="Zapario" href="https://www.zapario.com">Zapario</a></h4>
+                <a class="btn btn-link" href="">Home</a>
+                <a class="btn btn-link" href="">Services</a>
+                <a class="btn btn-link" href="">About</a>
+                <a class="btn btn-link" href="">Career</a>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <h4 class="text-light mb-4">Services</h4>
+                
+
+    
+
+
+
+												
+								
+		<a id="ctl00_footer_vernav_RepLinks_ctl01_title" class="btn btn-link" href="https://www.zapario.comblog/asset-mgmt/Slide1.html">Slide1</a>
+        
+  
+
+
+
+
+
+												
+								
+		<a id="ctl00_footer_vernav_RepLinks_ctl02_title" class="btn btn-link" href="https://www.zapario.comblog/asset-mgmt/Slide2.html">Slide2</a>
+        
+  
+
+
+
+
+
+												
+								
+		<a id="ctl00_footer_vernav_RepLinks_ctl03_title" class="btn btn-link" href="https://www.zapario.comblog/asset-mgmt/Slide3.html">Slide3</a>
+        
+  
+
+
+
+
+
+												
+								
+		<a id="ctl00_footer_vernav_RepLinks_ctl04_title" class="btn btn-link" href="https://www.zapario.comblog/asset-mgmt/Slide4.html">Slide4</a>
+        
+  
+
+
+
+
+
+												
+								
+		<a id="ctl00_footer_vernav_RepLinks_ctl05_title" class="btn btn-link" href="https://www.zapario.comblog/asset-mgmt/Slide5.html">Slide5</a>
+        
+  
+
+
+
+
+
+												
+								
+		<a id="ctl00_footer_vernav_RepLinks_ctl06_title" class="btn btn-link" href="https://www.zapario.comblog/asset-mgmt/Slide6.html">Slide6</a>
+        
+  
+
+
+
+
+
+
+
+             
+ 
+ 
+ 
+
+            </div>
+            <div class="col-lg-3 col-md-3">
+                <h4 class="text-light mb-4">Additional Links</h4>
+                <a class="btn btn-link" href="">Home</a>
+                <a class="btn btn-link" href="">Services</a>
+                  <a class="btn btn-link" href="">Services</a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="copyright">
+            <div class="row">
+                <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
+                    &copy;  All Right Reserved.
+					 <a id="ctl00_footer_cright" class="border-bottom">Zapario</a> |   | <a id="ctl00_footer_privacypolicy" href="Zaparioprivacypolicy.html">Privacy Policy</a> 
+			</div>
+
+                </div>
+                <div class="col-md-6 text-center text-md-end">
+                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://www.zapario.comcredit-removal". Thank you for your support. ***/-->
+                    Designed By <a class="border-bottom" href="https://www.kreatewebsites.com">Kreate Websites</a> | <a id="ctl00_footer_sitemap"></a>
+                </div>
+            </div>
+        </div>
+ </div>
+
+
+
+
+			
+								
+								
+							
+
+
+
+
+
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-0 back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/lib/wow/wow.min.js"></script>
+    <script src="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/lib/easing/easing.min.js"></script>
+    <script src="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/lib/waypoints/waypoints.min.js"></script>
+    <script src="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/lib/counterup/counterup.min.js"></script>
+    <script src="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="https://storage.googleapis.com/layout.kreatewebsites.com/shipping-company-website-template/js/main.js"></script>
+</body>
+
+</html>
